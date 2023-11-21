@@ -13,7 +13,7 @@ Before installation, block the below domains at `/etc/hosts`:
 ## Installation
 
 ```bash
-wget https://github.com/hifocus/CleanInStack/releases/download/0.0.0/cleaninstack-full.tar.gz
+wget https://github.com/dogpem/CleanInStack/releases/download/0.0.0/cleaninstack-full.tar.gz
 md5sum cleaninstack-full.tar.gz
 
 # if the result is b2947bac8cb66d54fcd90d30e406598f
